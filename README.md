@@ -18,10 +18,10 @@ If you've previously shared this work on another site, you may include that link
 
 ## Method 2 - Pull Request
 
-1. Please **fork** this repository. *For more information on forking, visit* [this link](https://guides.github.com/activities/forking/).
+1. Please **fork** this repository. *For more information on forking, visit [this link](https://guides.github.com/activities/forking/).*
 2. Modify the `contributors.yml` file with your information
 3. Modify the `2019-07-01-sample-post.md` file with your drafted post. The sample file contains a listing of commonly utilized Markdown functionality for your reference. 
 *To preview the live view of the markdown file, you can use the following extensions:* [Firefox - Markdown Viewer](https://addons.mozilla.org/en-US/firefox/addon/gitlab-markdown-viewer) | [Chrome - Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl)
-4. Open a **pull request** with your changes. *For more information on pull requests, visit* [this link](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork).
+4. Open a **pull request** with your changes. *For more information on pull requests, visit [this link](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork).*
 
 If you've previously shared this work on another site, you may include that link as well. Within 48 hours, we will update you on the status of your publication!
