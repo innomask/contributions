@@ -13,11 +13,7 @@ image:
 
 ## HTML Elements
 
-Below is just about everything you'll need to style in the theme. Use these tools to build your post. To preview the live view of the markdown file, you can use the following extensions:
-
-<a href="https://addons.mozilla.org/en-US/firefox/addon/gitlab-markdown-viewer/">Firefox - Markdown Viewer</a>
-
-<a href="https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl">Chrome - Markdown Viewer</a>
+Below is just about everything you'll need to style in the theme. Use these tools to build your post.
 
 # Heading 1
 
