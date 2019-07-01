@@ -14,6 +14,14 @@ Please send an email to [oneastrounit (at) gmail.com](mailto:oneastrounit@gmail.
 6. A brief description of yourself in 2-3 sentences (optional)
 7. Any personal links you'd like to share (optional - e.g. GitHub, LinkedIn, personal website)
 
-If you've previously shared this work on another site, you may include that link as well.
+If you've previously shared this work on another site, you may include that link as well. Within 48 hours, we will update you on the status of your publication!
 
 ## Method 2 - Pull Request
+
+1. Please **fork** this repository. *For more information on forking, visit* [this link](https://guides.github.com/activities/forking/).
+2. Modify the `contributors.yml` file with your information
+3. Modify the `2019-07-01-sample-post.md` file with your drafted post. The sample file contains a listing of commonly utilized Markdown functionality for your reference. 
+*To preview the live view of the markdown file, you can use the following extensions:* [Firefox - Markdown Viewer](https://addons.mozilla.org/en-US/firefox/addon/gitlab-markdown-viewer) | [Chrome - Markdown Viewer](https://chrome.google.com/webstore/detail/markdown-preview-plus/febilkbfcbhebfnokafefeacimjdckgl)
+4. Open a **pull request** with your changes. *For more information on pull requests, visit* [this link](https://help.github.com/en/articles/creating-a-pull-request-from-a-fork).
+
+If you've previously shared this work on another site, you may include that link as well. Within 48 hours, we will update you on the status of your publication!
