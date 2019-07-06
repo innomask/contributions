@@ -3,7 +3,7 @@ Thank you for your interest in contributing to OneAU. If you'd like to share you
 
 OneAU is a medium to share open-source projects. We assert no claim to the intellectual property of any work published herein, and encourage cross-posting to other sites. If you have questions, please contact us at [oneastrounit (at) gmail.com](mailto:oneastrounit@gmail.com).
 
-After you've submitted, send us an email with your address to get a free OneAU sticker!
+After you've submitted, send us an email with your address to get a __free OneAU sticker__!
 
 ## Method 1 - Email
 Please send an email to [oneastrounit (at) gmail.com](mailto:oneastrounit@gmail.com) with the following information:
