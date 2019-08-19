@@ -1,6 +1,5 @@
-- name: Sample Name
-  descr: "Bacon ipsum dolor sit amet doner meatball jowl short ribs, chicken prosciutto salami frankfurter. Pig drumstick turducken short ribs, brisket meatloaf ham hock shankle andouille corned beef strip steak. Venison ham bresaola strip steak. Pork belly ribeye prosciutto t-bone."
+- name: Willy Hagi
+  descr: "Willy is a meteorologist and climatologist from Brazil. His research focus in climate variability and change in the Amazon Basin from past ages to our own days. Currently he is a student at the Brazilian National Institute of Amazonian Research."
   image: sample_name.png
-  website: https://samplename.com
-  linkedin: https://linkedin.com/in/samplename
-  github: https://github.com/samplename
+  linkedin: https://www.linkedin.com/in/willyhagi/?locale=en_US
+  github: https://github.com/willyhagi
