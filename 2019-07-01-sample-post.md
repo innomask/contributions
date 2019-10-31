@@ -1,99 +1,30 @@
----
-layout: post #Do not modify this
-title: Sample Post
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
-categories: [category1, category2]
-comments: true #Do not modify this
-contributor: [Sample Name1, Sample Name2]
-image:
-  feature: #Put your direct image link here if relevent
-  credit: #Put your photographer name here if relevant
-  creditlink: #Link to the credit site if relevant
----
+# ENSO Events and the Amazon Basin: Basic Aspects.
 
-## HTML Elements
+The El Niño-Southern Oscillation (ENSO) phenomenon is arguably one of the major patterns of the global climate system. It is an inter-annual event with a relative periodicity of 2 to 8 years and is directly related to the occurrence of extreme droughts and floods around the world. 
 
-Below is just about everything you'll need to style in the theme. Use these tools to build your post.
+It happens when every once in a while the eastern side of the tropical Pacific ocean gets warmer or colder than normal, defining what is called an El Niño or La Niña conditions respectively. These irregular temperature fluctuations drive changes in the large-scale atmospheric patterns such as the east-west circulation called *Walker Circulation* and the sea level pressure between the eastern and western portions of the basin, called the *Southern Oscillation*. That is, ENSO comes from an interplay between the changes of mood in the ocean's surface and the atmosphere above it. If these concepts seem mysterious or in case you need a refresher,  check this nice [NOAA introduction post](https://www.climate.gov/news-features/blogs/enso/what-el-ni%C3%B1o%E2%80%93southern-oscillation-enso-nutshell).
 
-# Heading 1
 
-## Heading 2
+![Sea Surface Temperature Anomalies (SSTA), with respect to the 1981-2010 climatology, at the winter season (December to February) in the Tropical Pacific during the 2015/2016 El Niño and 2010/2011 La Niña events. Data from the Physical Sciences Division (PSD/NOAA).](https://www.authorea.com/users/164994/articles/396956/master/file/figures/ssta_enso/ssta_enso.png)
 
-### Heading 3
+Take for instance the conditions of the tropical Pacific surface temperature during the strong 2015/2016 El Niño in Fig. 1a, which is one of the strongest on record. Temperatures rose above 2 degrees Celsius in the central and eastern Pacific and it was so strong [it caused severe bleaching of the corals in the Great Barrier Reef](https://www.nationalgeographic.com/news/2018/01/coral-bleaching-reefs-climate-change-el-nino-environment/). One of the most easily recognizable effects of El Niño is the decrease in the marine wildlife and the fishing industry, so much it became the reason behind its name -- Peruvian fishermen ironically nicknamed the anomalous warming of the Peruvian Current waters after the Boy Jesus because they couldn't catch much fish as usual around Christmastime. 
 
-#### Heading 4
+La Niña follows as an obvious companion, named to describe the anomalously cold waters in contrast to El Niño. The 2010/2011 La Niña in Fig. 1b was also one of the strongest on record and it caused several extreme floods throughout the world, from Australia to the Amazon Basin. These adverse effects such as droughts and floods caused by a particular phenomenon, like ENSO, on a remote locality away from its center of activity is called a Teleconnection by the climate scientists and that is the main reason why it's so important to monitor and study the causes of ENSO activity.
 
-##### Heading 5
+But how can these ENSO events be important for the Amazon Basin? First, this is the largest drainage basin in the world and is home to both an immense rainforest and even greater biodiversity. It has a pivotal role in the stability of the global climate system by absorbing carbon dioxide from the atmosphere and driving the hydrological cycle in other continental basins through its contribution to large-scale atmospheric moisture transport.
 
-###### Heading 6
+![Seasonal cycle of Precipitation in the Amazon Basin. Data is from the PERSIANN-CDR from 1983-2018 and is freely available by the Center for Hydrometeorology and Remote Sensing (CHRS) of the University of California.](https://www.authorea.com/users/164994/articles/396956/master/file/figures/rainfall_seasonality/rainfall_seasonality.png)
 
-### Body text
+The annual march of rainfall in the Amazon Basin (Fig. 2) displays a great spatio-temporal heterogeneity as it goes by. The wet season during the winter and spring months (DJF-MAM) sees an immense amount of rainfall spreading through the entire Basin as the Intertropical Convergence Zone (ITCZ) begins its movement to the south of the region and the moisture transport from the Tropical North Atlantic ocean gets more intense.  This season is also characterized by a huge moisture transport from the Basin itself to the South-Southeast region of Brazil and Argentina by the so-called Atmospheric Rivers, which are also formed in the region.
 
-Lorem ipsum dolor sit amet, test link adipiscing elit. **This is strong**. Nullam dignissim convallis est. Quisque aliquam.
+This huge rainfall, however, is replaced as the dry season starts in summer months. The southernmost part of the Basin suffers from reduced water levels and lack of rainfall as the northernmost part still gets heavy precipitation events, especially in the region known as [the Dog's Head](https://en.wikipedia.org/wiki/Cabe%C3%A7a_do_Cachorro). This region is possibly the wettest in the entire South American continent as it practically has no seasonality and year-long rainfall levels.    
 
-![Smithsonian Image](https://images.unsplash.com/photo-1440635592348-167b1b30296f?crop=entropy&dpr=2&fit=crop&fm=jpg&h=475&ixjsv=2.1.0&ixlib=rb-0.3.5&q=50&w=1250)
+The start of the dry season is followed by the start of the fire season in the southern portions of the basin, concentrated mostly in the [Arc of Deforestation](https://ipam.org.br/glossario/arc-of-deforestation/) in Brazil. Although there are also fire occurrences during the wet season and the use of fire is a cultural aspect of the indigenous peoples in Amazonia, the highest numbers are found in the dry periods because the lack of rainfall provides a window of opportunity for the (mostly illegal) advance of the agricultural frontier. One of the consequences of extreme drought events in the region is precisely the increase of this window of opportunity for fire occurrences, as happened during the 2015/2016 strong El Niño event.
 
-*This is emphasized*. Donec faucibus. Nunc iaculis suscipit dui. 53 = 125. Water is H2O. Nam sit amet sem. Aliquam libero nisi, imperdiet at, tincidunt nec, gravida vehicula, nisl. The New York Times (That’s a citation). Underline.Maecenas ornare tortor. Donec sed tellus eget sapien fringilla nonummy. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus.
+![SPEI values in the Amazon Basin during the 2015/2016 El Niño and 2010/2011 La Niña events.](https://www.authorea.com/users/164994/articles/396956/master/file/figures/enso_spei/spei_enso.png)
 
-HTML and CSS are our tools. Mauris a ante. Suspendisse quam sem, consequat at, commodo vitae, feugiat in, nunc. Morbi imperdiet augue quis tellus. Praesent mattis, massa quis luctus fermentum, turpis mi volutpat justo, eu volutpat enim diam eget metus.
+These extreme conditions can be analyzed through the use of the [Standardized Precipitation Evapotranspiration Index (SPEI)](https://spei.csic.es/home.html), where positive (negative) values represent wet (drought) conditions. The SPEI values in the Amazon Basin during the 2015/2016 El Niño (Fig 3a) show a widespread drought over the entire region up to the northernmost parts of South America. The spatial extent of the drought at this period was enormous to the point it has no parallel during the other extreme events in the 21st century in the Basin as the great droughts of 2005 and 2010. The decrease of rainfall levels during the wet season increased the window of opportunity for man-made fire outbreaks even outside the Arc of Deforestation.
 
-### Blockquotes
+The strong 2010/2011 La Niña, on the other hand, seems to be related to wet conditions at the eastern side of the Basin while drought conditions were observed at the west. This pattern hints to a lack of symmetry between ENSO events and their related effects in the rainfall regime of the region and also points to the difficulty to predict where and when these adverse effects will happen. During this specific event the river water levels in the western Amazon increased so much that many small communities and cities next to the (several) river banks became entirely submerged by the intense floods for months. 
 
-> Lorem ipsum dolor sit amet, test link adipiscing elit. Nullam dignissim convallis est. Quisque aliquam.
-
-## List Types
-
-### Ordered Lists
-
-1. Item one
-   1. sub item one
-   2. sub item two
-   3. sub item three
-2. Item two
-
-### Unordered Lists
-
-* Item one
-* Item two
-* Item three
-
-## Tables
-
-| Header 1 | Header 2 | Header 3 |
-|:--------|:-------:|--------:|
-| cell 1   | cell 2   | cell 3   |
-| cell 4   | cell 5   | cell 6   |
-|----
-| cell 1   | cell 2   | cell 3   |
-| cell 4   | cell 5   | cell 6   |
-|=====
-| Foot 1   | Foot 2   | Foot 3   |
-
-## Code Snippets
-
-{% highlight css %}
-#container {
-  float: left;
-  margin: 0 -240px 0 0;
-  width: 100%;
-}
-{% endhighlight %}
-
-## Buttons
-
-Make any link standout more when applying the `.btn` class.
-
-{% highlight html %}
-<a href="#" class="btn btn-success">Success Button</a>
-{% endhighlight %}
-
-<div markdown="0"><a href="#" class="btn">Primary Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-success">Success Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-warning">Warning Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-danger">Danger Button</a></div>
-<div markdown="0"><a href="#" class="btn btn-info">Info Button</a></div>
-
-## Notices
-
-**Watch out!** You can also add notices by appending `{: .notice}` to a paragraph.
-{: .notice}
+ENSO activity, therefore, is a major factor for the functioning not just of the local amazonian human population, but its biodiversity of animals and the health of the forest itself as these extreme events can increase the mortality of many species especially during drought periods caused by El Niño. This poses a challenge for the world and future generations as the increase of global temperatures due to the anthropogenic emissions of Greenhouse Gases is set to increase the frequency and intensity of extreme drought and flood events, disturbing the natural ecosystem of the Amazon rainforest until it reaches a point of no return and the climate setting of the world is altered forever. 
